@@ -1,23 +1,15 @@
 Lab 3 – Getting Familiar With Postman 
 -----------------------------------
 
-In this lab we will setup Postman, an API Development tool that will allow us to structure our API calls and interact with our BIG-IP.
-We will use Postman to query our BIG-IP's status and details of the RPM files needed to use and interact with the AS3 RESTful API.
+In this lab we will use Postman to query our BIG-IP's status and details of the RPM files needed to use and interact with the AS3 RESTful API.
 
 ------------------------------------------------ 
 
-**Exercise 1 - Setting Up Postman Environment**
-
-
-#. Open Postman
-
------------------------------------------------- 
-
-**Exercise 2 - Check Application Services 3 Extension (AS3) RPM Availability**
+**Exercise 1 - Check Application Services 3 Extension (AS3) RPM Availability**
   
 #. Open Postman 
 
-#. Open the the Postman collection `RPMs`
+#. Open the Postman collection `RPMs`
 
     .. image:: ./as3post.jpg
 
@@ -38,7 +30,7 @@ We will use Postman to query our BIG-IP's status and details of the RPM files ne
 
 ------------------------------------------------ 
 
-**Exercise 3 - Check Telemetry Streaming RPM Availability**
+**Exercise 2 - Check Telemetry Streaming RPM Availability**
   
 #. Open the the Postman collection `RPMs`
 
