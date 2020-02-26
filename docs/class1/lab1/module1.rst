@@ -14,11 +14,11 @@ Lab Topology
 
 The following components have been included in your lab environment:
 
-- 1 x F5 BIG-IP VE (v14.1)
-- 1 x F5 BIG-IP VE (v15.0.1)
-- 1 x Elk (Unbuntu 18.04)
-- 1 x Linux LAMP Webserver (Ubuntu 18.04)
-- 1 x Windows Jumphost
+- 1 x F5 BIG-IP (v15.0.1)
+- 1 x ELK Server (Ubuntu)
+- 1 x LAMP Webserver (Ubuntu)
+- 1 x Jumphost (Windows Server)
+- 1 x Traffic Gen Host (Kali)
 
 Lab Components
 ^^^^^^^^^^^^^^
