@@ -1,4 +1,4 @@
-Lab 3 – Getting Familiar With Postman 
+Lab 3 – Examine Telemetry Streaming
 -----------------------------------
 
 In this lab section we are introducing Postman, an API Development Environment that helps us structure API calls. We will send GET requests to obtain the RPM package that shows details of the API.
