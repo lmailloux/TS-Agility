@@ -1,7 +1,7 @@
 Lab 5 – Telemetry Streaming With ELK
 -----------------------------------
 
-In this lab we will configure our Telemetry Streaming JSON declaration to establish a connection between our Kibana consumer and our BIG-IP. 
+In this lab you will configure Telemetry Streaming with your ELK (Elastic, Logstash, Kibana) consumer.
 
 ------------------------------------------------ 
 
